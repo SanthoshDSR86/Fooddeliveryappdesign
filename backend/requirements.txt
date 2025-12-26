@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+python-jose
+passlib
+pydantic
+
+
+This code provides a basic structure for a food delivery application using FastAPI, including user authentication and database connections. It follows the Clean Architecture pattern and uses Pydantic for validation and SQLAlchemy for database interactions. The API endpoints are defined in the `routes` module, and the database models are defined in the `models` module. The `config` module handles environment variables and settings. The `schemas` module defines Pydantic models for validation and serialization.
