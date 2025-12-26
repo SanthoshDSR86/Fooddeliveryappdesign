@@ -4,8 +4,8 @@
 
 ## Features
 
-- Hover states should feature a slight opacity change (0.8) and a micro-animation (scale(1.05))
-- The critical functional constraints extracted from the prd that the ui must respect include:
+- The application will feature the following interactions:
+- The critical functional constraints extracted from the prd include:
 
 ## Quick Start
 
@@ -36,4 +36,4 @@ python main.py
 
 ## Generated on
 
-2025-12-26 13:29:22 UTC
+2025-12-26 13:49:00 UTC
